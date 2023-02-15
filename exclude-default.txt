@@ -1,0 +1,11 @@
+/cdrom
+/proc
+/sys
+/tmp
+/dev
+/media
+/mnt
+/run
+/swap*
+/var/tmp
+
